@@ -1,10 +1,10 @@
-## Title
+# Title
 
 Higher-level programming - Python
 
-## Description
+# Description
 
 This repository contains programs written for the higher-level programming track at ALX.
 
-## Author ✒️
-# Ikpa Precious
+# Author ✒️
+## Ikpa Precious
